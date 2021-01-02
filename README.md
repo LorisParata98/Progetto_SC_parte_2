@@ -1,2 +1,0 @@
-# Progetto_SC_parte_2
-Progetto_SC_parte_2
