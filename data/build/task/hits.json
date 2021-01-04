@@ -1,0 +1,39 @@
+[
+	{
+		"unit_id": "unit_0",
+		"token_input": "WK1ED1T",
+		"token_output": "WK1ED1RS",
+		"documents": [
+			{
+				"id": "bk-01-cy-ed-1",
+				"title": "Mirrorshades: The Cyberpunk Anthology",
+				"author": "Bruce Sterling, William Gibson",
+				"number_of_pages": "239",
+				"editor": "Ace",
+				"price": "115$",
+				"url": "https://images-na.ssl-images-amazon.com/images/I/51VFZYSPPFL._SX286_BO1,204,203,200_.jpg",
+				"year_of_publication": "1988"
+			},
+			{
+				"id": "bk-01-dg-ed-1",
+				"title": "The Picture Of Dorian Gray",
+				"author": "Oscar Wild ",
+				"number_of_pages": "256",
+				"editor": "Chiltern Publishing",
+				"price": "25$",
+				"url": "https://images-na.ssl-images-amazon.com/images/I/51LakwDvmtL._SX333_BO1,204,203,200_.jpg",
+				"year_of_publication": "2020"
+			},
+			{
+				"id": "bk-01-fr-ed-1",
+				"title": "Fahrenheit 451",
+				"author": "Ray Bradbury",
+				"number_of_pages": "159",
+				"editor": "Simon & Schuster;",
+				"price": "7.50$",
+				"url": "https://images-na.ssl-images-amazon.com/images/I/41qI9quGIdL._SX324_BO1,204,203,200_.jpg",
+				"year_of_publication": "2012"
+			}
+		]
+	}
+]
