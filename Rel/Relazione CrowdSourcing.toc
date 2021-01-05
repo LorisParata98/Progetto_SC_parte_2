@@ -1,0 +1,13 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{\numberline {1}Crowd Frame}{2}{}%
+\contentsline {section}{\numberline {1.1}Introduzione}{2}{}%
+\contentsline {section}{\numberline {1.2}Progettazione del task}{2}{}%
+\contentsline {subsection}{\numberline {1.2.1}Obbiettivo del task}{2}{}%
+\contentsline {subsubsection}{Lingua del task}{2}{}%
+\contentsline {subsection}{\numberline {1.2.2}Creazione del task}{2}{}%
+\contentsline {subsection}{\numberline {1.2.3}Le istruzioni inerenti al task}{3}{}%
+\contentsline {subsection}{\numberline {1.2.4}Questionario}{3}{}%
+\contentsline {subsection}{\numberline {1.2.5}Le dimensioni}{3}{}%
+\contentsline {subsection}{\numberline {1.2.6}Struttura della HIT}{3}{}%
+\contentsline {section}{\numberline {1.3}Conclusioni}{3}{}%
