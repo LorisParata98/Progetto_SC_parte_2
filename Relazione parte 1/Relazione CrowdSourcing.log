@@ -1,40 +1,40 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.4)  4 JAN 2021 23:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.26)  5 JAN 2021 17:21
 entering extended mode
 **"./Relazione CrowdSourcing.tex"
 ("Relazione CrowdSourcing.tex"
-LaTeX2e <2020-10-01> patch level 3
-L3 programming layer <2020-12-07> xparse <2020-03-03>
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count177
-\c@chapter=\count178
-\c@section=\count179
-\c@subsection=\count180
-\c@subsubsection=\count181
-\c@paragraph=\count182
-\c@subparagraph=\count183
-\c@figure=\count184
-\c@table=\count185
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2020/12/16 3.52 The Babel package
+Package: babel 2020/10/06 3.50 The Babel package
 
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2020/12/16 3.52 Babel common definitions
-\babel@savecnt=\count186
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count184
 \U@D=\dimen139
 \l@babelnohyphens=\language79
 
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count187
+\bbl@dirlevel=\count185
 
 *************************************
 * Local config file bblopts.cfg used
@@ -46,13 +46,13 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.l
 df
 Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
-\it@lettering=\count188
-\it@doublequoteactive=\count189
-\it@ISOcompliance=\count190
+\it@lettering=\count186
+\it@doublequoteactive=\count187
+\it@ISOcompliance=\count188
 ))
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count191
+\etb@tempcnta=\count189
 )
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
@@ -72,9 +72,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count192
-\Gm@cntv=\count193
-\c@Gm@tempcnt=\count194
+\Gm@cnth=\count190
+\Gm@cntv=\count191
+\c@Gm@tempcnt=\count192
 \Gm@bindingoffset=\dimen140
 \Gm@wd@mp=\dimen141
 \Gm@odd@mp=\dimen142
@@ -117,7 +117,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count195
+\l__kernel_color_stack_int=\count193
 \l__pdf_internal_box=\box47
 ) ("Relazione CrowdSourcing.aux")
 \openout1 = `"Relazione CrowdSourcing.aux"'.
@@ -185,16 +185,16 @@ italian.ldf    on input line 7.
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count196
+\scratchcounter=\count194
 \scratchdimen=\dimen150
 \scratchbox=\box48
-\nofMPsegments=\count197
-\nofMParguments=\count198
+\nofMPsegments=\count195
+\nofMParguments=\count196
 \everyMPshowfont=\toks19
-\MPscratchCnt=\count199
+\MPscratchCnt=\count197
 \MPscratchDim=\dimen151
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
 \everyMPtoPDFconversion=\toks20
 )
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -221,45 +221,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Capitolo 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-<Relazione/Relazione/api_show_friendships.png, id=13, 453.19313pt x 169.63374pt
->
-File: Relazione/Relazione/api_show_friendships.png Graphic file (type png)
-<use Relazione/Relazione/api_show_friendships.png>
-Package pdftex.def Info: Relazione/Relazione/api_show_friendships.png  used on 
-input line 46.
-(pdftex.def)             Requested size: 382.40651pt x 143.13846pt.
 [2
 
- <./Relazione/Relazione/api_show_friendships.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-
- []
-
-[3] ("Relazione CrowdSourcing.aux") ) 
+] [3]
+<statement.png, id=20, 405.31425pt x 250.536pt>
+File: statement.png Graphic file (type png)
+<use statement.png>
+Package pdftex.def Info: statement.png  used on input line 107.
+(pdftex.def)             Requested size: 430.20276pt x 265.91858pt.
+<css.png, id=22, 102.98476pt x 49.3845pt>
+File: css.png Graphic file (type png)
+<use css.png>
+Package pdftex.def Info: css.png  used on input line 114.
+(pdftex.def)             Requested size: 143.40335pt x 68.76631pt.
+ [4 <./statement.png> <./css.png>] ("Relazione CrowdSourcing.aux") ) 
 Here is how much of TeX's memory you used:
- 2916 strings out of 479624
- 42892 string characters out of 2865148
- 344853 words of memory out of 3000000
- 20075 multiletter control sequences out of 15000+200000
- 409539 words of font info for 47 fonts, out of 3000000 for 9000
+ 2903 strings out of 480236
+ 42649 string characters out of 2880557
+ 344201 words of memory out of 3000000
+ 19453 multiletter control sequences out of 15000+200000
+ 541197 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,5n,70p,478b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\loris\AppData\Local\MiKTeX\font
-s/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/loris/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/loris/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/loris/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/
-loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb>
-Output written on "Relazione CrowdSourcing.pdf" (4 pages, 97922 bytes).
+ 60i,6n,66p,475b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\
+loris\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/U
+sers/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Relazione CrowdSourcing.pdf" (5 pages, 96891 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
