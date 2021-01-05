@@ -14,7 +14,7 @@
 				},
 				{
 					"label": "No",
-					"description": "Yes, I would not buy this book",
+					"description": "No, I would not buy this book",
 					"value": "-1"
 				}
 			]
