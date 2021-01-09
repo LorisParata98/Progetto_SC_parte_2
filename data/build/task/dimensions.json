@@ -10,16 +10,16 @@
 				{
 					"label": "Yes",
 					"description": "Yes, I would buy this book",
-					"value": "1"
+					"value": "2"
 				},
 				{
 					"label": "No",
 					"description": "No, I would not buy this book",
-					"value": "-1"
+					"value": "1"
 				}
 			]
 		},
-		"gold_question_check": true,
+		"gold_question_check": false,
 		"style": {
 			"position": "middle",
 			"orientation": "horizontal",
@@ -38,12 +38,12 @@
 				{
 					"label": "Yes",
 					"description": "I find that the price is adequate",
-					"value": "1"
+					"value": "2"
 				},
 				{
 					"label": "No",
 					"description": "I find that the price is not adequate",
-					"value": "-1"
+					"value": "1"
 				}
 			]
 		},
@@ -109,31 +109,31 @@
 				{
 					"label": "Completely agree",
 					"description": "I would recommend it to anyone",
-					"value": "3"
+					"value": "5"
 				},
 				{
 					"label": "Generally agree",
 					"description": "I would recommend it ",
-					"value": "1"
+					"value": "4"
 				},
 				{
 					"label": "I don't know",
 					"description": "I don't have a clear opinion on this book",
-					"value": "0"
+					"value": "3"
 				},
 				{
 					"label": "Generally disagree ",
 					"description": "I would not recommend it ",
-					"value": "-1"
+					"value": "2"
 				},
 				{
 					"label": "Completely disagree",
 					"description": "I would not recommend it to anyone",
-					"value": "-3"
+					"value": "1"
 				}
 			]
 		},
-		"gold_question_check": true,
+		"gold_question_check": false,
 		"style": {
 			"position": "middle",
 			"orientation": "vertical",

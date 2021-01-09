@@ -110,5 +110,15 @@
 				]
 			}
 		]
-	}
+	},
+	{
+		"type": "crt",
+		"questions": [
+		  {
+			"name": "booksandpen",
+			"text": "A book and a pen cost $1.10 in total. The book cost $1.00 more than the pen. How much doest the pen cost? ___ cents",
+			"answers": []
+		  }
+		]
+	  }
 ]
