@@ -99,20 +99,20 @@
 		}
 	},
 	{
-		"name": "Would you recommend this edition to another person?",
-		"description": false,
+		"name": "Select the option that indicates how much you agree with the following statement",
+		"description": "'I would recommend this edition to another person'",
 		"justification": false,
 		"url": false,
 		"scale": {
 			"type": "categorical",
 			"mapping": [
 				{
-					"label": "Yes, absolutely",
+					"label": "Completely agree",
 					"description": "I would recommend it to anyone",
 					"value": "3"
 				},
 				{
-					"label": "Yes",
+					"label": "Generally agree",
 					"description": "I would recommend it ",
 					"value": "1"
 				},
@@ -122,12 +122,12 @@
 					"value": "0"
 				},
 				{
-					"label": "No",
+					"label": "Generally disagree ",
 					"description": "I would not recommend it ",
 					"value": "-1"
 				},
 				{
-					"label": "No, never",
+					"label": "Completely disagree",
 					"description": "I would not recommend it to anyone",
 					"value": "-3"
 				}
