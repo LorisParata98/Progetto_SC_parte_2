@@ -1,8 +1,20 @@
-[
-	{
-		"caption": "General Instruction 1",
-		"steps": [
-			"General Instruction 1 Step 1"
-		]
-	}
+[{
+        "caption": "Instructions:",
+        "steps": [
+            "Kind user, thank you for accepting this task. We will collect your opinion on specific book editions. For each book, we'll give you some questions about the specific edition we chose, and we'll ask you to express your preferences on an optimal scale for the context of the question. ",
+            "In this task you will be shown 3 editions belonging to three different books, and for each book the characteristics of that particular edition will be displayed(title, year of publication, cost...). ",
+            "You will be asked to answer 6 questions that require your opinion as an answer.It is possible to answer the questions even if you do not know that particular edition or that book, indicating your impressions. ",
+            "Data from this activity is collected for research purposes.No personally identifiable information is recorded.Participation is entirely voluntary and you are free to stop at any time. "
+        ]
+    },
+    {
+        "caption": "Task Description",
+        "steps": [
+            "Before starting the main survey, we kindly ask you to answer a couple of questions aimed to create a general background of the user literature preferences. ",
+            "For each book's edition, it will be reported its main informations, in order to help the user to identify best the edition and the book we chose. ",
+            "If you wish to change a previously given judgment, you can use the back button to revisit it. ",
+            "The statements are not presented in any particular order. Try not to anticipate and answer each question simply after reading it. Please note that you will have to answer all questions and fill in every field, otherwise you will not be able to proceed with the following steps. ",
+            "If you have not read the said book, or you have not read that particular edition, there will be an apposite field for this case."
+        ]
+    }
 ]

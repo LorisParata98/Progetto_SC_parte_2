@@ -1,5 +1,5 @@
 [{
-        "name": "1. Would you buy this book?",
+        "name": "Would you buy this book?",
         "description": "Select the option that indicates whether you would ever purchase this edition.",
         "justification": false,
         "url": false,
@@ -26,7 +26,7 @@
         }
     },
     {
-        "name": "2. Does the price seem adequate to you?",
+        "name": "Does the price seem adequate to you?",
         "description": "Select the option that indicates whether you think the price is appropriate for this edition.",
         "justification": false,
         "url": false,
@@ -53,7 +53,7 @@
         }
     },
     {
-        "name": "3. Indicate how adequate it seems to you. ",
+        "name": "Indicate how adequate it seems to you. ",
         "description": "(Little = 1, Much = 5)",
         "justification": false,
         "url": false,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "name": "4. What is your impression of this edition?",
+        "name": "What is your impression of this edition?",
         "description": "Please indicate your impressions of this edition based on your knowledge.",
         "justification": {
             "text": "I think this book is ... why.. ",
@@ -84,7 +84,7 @@
         }
     },
     {
-        "name": "5. If you've read any edition of this book, indicate a URL to identify it.",
+        "name": "If you've read any edition of this book, indicate a URL to identify it.",
         "description": "Indicate whether you have read this specific edition or not. In case you have read this book, but a different edition indicates which one by indicating the URL of the specific edition.",
         "justification": {
             "text": "If not write 'I have not read this book' else write 'I have read [link of the edition read].",
@@ -96,7 +96,7 @@
         }
     },
     {
-        "name": "6. Select the option that indicates how much you agree with the following statement.",
+        "name": "Select the option that indicates how much you agree with the following statement.",
         "description": "'I would recommend this edition to another person.'",
         "justification": false,
         "url": false,
