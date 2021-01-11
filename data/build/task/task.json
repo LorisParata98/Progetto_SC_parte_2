@@ -9,6 +9,6 @@
     "blacklist_batches": [],
     "whitelist_batches": [],
     "messages": [
-        "You have abandoned a previous attempt, but this task can only be done once."
+        "You have already started this task without finishing it. It cannot be done again."
     ]
 }
