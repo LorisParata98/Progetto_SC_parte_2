@@ -73,19 +73,21 @@ In modo da poter stabilire il background letterario del worker, le sue abitudini
 \subsection{Le dimensioni}
 Oltre alle quattro dimensioni imposte dalla traccia:
 \begin{itemize}
-	\item Would you buy this book?
-	\item Does the price seem adequate to you?
-	\item Indicate how adequate it seems to you
-	\item What is your impression of this edition?
+	\item \textbf{Dimensione 1}: Would you buy this book?
+	\item \textbf{Dimensione 2}: Does the price seem adequate to you?
+	\item \textbf{Dimensione 3}: Indicate how adequate it seems to you
+	\item \textbf{Dimensione 4}: What is your impression of this edition?
 \end{itemize}
 Abbiamo deciso di aggiungere :
 \begin{itemize}
-	\item If you've read any edition of this book, indicate a URL to identify it
-	\item Would you recommend this edition to another person?
-	\item Where you are set the events of the book?
+	\item \textbf{Dimensione 5}: If you've read any edition of this book, indicate a URL to identify it
+	\item \textbf{Dimensione 6}: Select the option that indicates how much you agree with the following statement: \\ "I would recommend this edition to another person"
 \end{itemize}
+\subsubsection{Dimensione 5}
+La dimensione 5 è stata introdotta per verificare se il worker abbia letto una qualsiasi edizione del libro ed eventualmente individuarne delle versioni alternative preferite dai workers. Nella situazione in cui un worker non abbia mai letto quel libro si possono valutare diversamente la qualità delle risposte.   
+\subsubsection{Dimensione 6}
+La dimensione 6 è stata introdotta per verificarne la coerenza con la risposta della dimensione  1, in modo da avere un minimo di controllo di qualità senza l'utilizzo delle gold question. L'utilizzo di questo strumento non è stato richiesto dalla traccia, ed essendo non ancora implementato nella GUI il controllo delle gold questions, era necessario modificare il codice del framework. La verifica di coerenza verrà effettuata nella fase di analisi.
 
-La dimensione numero 6 è stata introdotta per verificarne la coerenza con la risposta della dimensione numero 1. Mentre la dimensione numero 7 è stata introdotta per verificare se il worker conosce in minima parte il contenuto del libro.
 
 \subsection{Struttura della HIT}
 Ogni HIT è composta da : 

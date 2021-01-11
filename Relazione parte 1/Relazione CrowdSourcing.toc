@@ -9,5 +9,7 @@
 \contentsline {subsection}{\numberline {1.2.3}Le istruzioni inerenti al task}{2}{}%
 \contentsline {subsection}{\numberline {1.2.4}Questionario}{3}{}%
 \contentsline {subsection}{\numberline {1.2.5}Le dimensioni}{3}{}%
-\contentsline {subsection}{\numberline {1.2.6}Struttura della HIT}{3}{}%
-\contentsline {subsection}{\numberline {1.2.7}Modifiche al file HTML}{4}{}%
+\contentsline {subsubsection}{Dimensione 5}{3}{}%
+\contentsline {subsubsection}{Dimensione 6}{3}{}%
+\contentsline {subsection}{\numberline {1.2.6}Struttura della HIT}{4}{}%
+\contentsline {subsection}{\numberline {1.2.7}Modifiche al file HTML}{5}{}%
