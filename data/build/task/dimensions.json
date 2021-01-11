@@ -1,144 +1,140 @@
-[
-	{
-		"name": "Would you buy this book?",
-		"description": false,
-		"justification": false,
-		"url": false,
-		"scale": {
-			"type": "categorical",
-			"mapping": [
-				{
-					"label": "Yes",
-					"description": "Yes, I would buy this book",
-					"value": "2"
-				},
-				{
-					"label": "No",
-					"description": "No, I would not buy this book",
-					"value": "1"
-				}
-			]
-		},
-		"gold_question_check": false,
-		"style": {
-			"position": "middle",
-			"orientation": "horizontal",
-			"type": "list",
-			"separator": false
-		}
-	},
-	{
-		"name": "Does the price seem adequate to you?",
-		"description": false,
-		"justification": false,
-		"url": false,
-		"scale": {
-			"type": "categorical",
-			"mapping": [
-				{
-					"label": "Yes",
-					"description": "I find that the price is adequate",
-					"value": "2"
-				},
-				{
-					"label": "No",
-					"description": "I find that the price is not adequate",
-					"value": "1"
-				}
-			]
-		},
-		"gold_question_check": false,
-		"style": {
-			"position": "middle",
-			"orientation": "horizontal",
-			"type": "list",
-			"separator": false
-		}
-	},
-	{
-		"name": "Indicate how adequate it seems to you ",
-		"description": "(Little = 1, Much = 5)",
-		"justification": false,
-		"url": false,
-		"scale": {
-			"type": "interval",
-			"min": 1,
-			"max": 5,
-			"step": 1
-		},
-		"gold_question_check": false,
-		"style": {
-			"position": "middle",
-			"type": "list",
-			"orientation": "vertical",
-			"separator": false
-		}
-	},
-	{
-		"name": "impression-book-justification",
-		"description": "What is your impression of this edition?",
-		"justification": {
-			"text": "Write a feature in this book that impressed you and why",
-			"min_words": 5
-		},
-		"style": {
-			"type": "list",
-			"position": "bottom"
-		}
-	},
-	{
-		"name": "this-book-read",
-		"description": "If you've read any edition of this book, indicate a URL to identify it",
-		"justification": {
-			"text": "If not write 'I have not read this book' else write 'I read [link of the edition read]",
-			"min_words": 3
-		},
-		"style": {
-			"type": "list",
-			"position": "bottom"
-		}
-	},
-	{
-		"name": "Select the option that indicates how much you agree with the following statement",
-		"description": "'I would recommend this edition to another person'",
-		"justification": false,
-		"url": false,
-		"scale": {
-			"type": "categorical",
-			"mapping": [
-				{
-					"label": "Completely agree",
-					"description": "I would recommend it to anyone",
-					"value": "5"
-				},
-				{
-					"label": "Generally agree",
-					"description": "I would recommend it ",
-					"value": "4"
-				},
-				{
-					"label": "I don't know",
-					"description": "I don't have a clear opinion on this book",
-					"value": "3"
-				},
-				{
-					"label": "Generally disagree ",
-					"description": "I would not recommend it ",
-					"value": "2"
-				},
-				{
-					"label": "Completely disagree",
-					"description": "I would not recommend it to anyone",
-					"value": "1"
-				}
-			]
-		},
-		"gold_question_check": false,
-		"style": {
-			"position": "middle",
-			"orientation": "vertical",
-			"type": "list",
-			"separator": false
-		}
-	}
+[{
+        "name": "Would you buy this book?",
+        "description": "Select the option that indicates whether you would ever purchase this edition.",
+        "justification": false,
+        "url": false,
+        "scale": {
+            "type": "categorical",
+            "mapping": [{
+                    "label": "Yes",
+                    "description": "Yes, I would buy this book",
+                    "value": "2"
+                },
+                {
+                    "label": "No",
+                    "description": "No, I would not buy this book",
+                    "value": "1"
+                }
+            ]
+        },
+        "gold_question_check": false,
+        "style": {
+            "position": "middle",
+            "orientation": "horizontal",
+            "type": "list",
+            "separator": false
+        }
+    },
+    {
+        "name": "Does the price seem adequate to you?",
+        "description": "Select the option that indicates whether you think the price is appropriate for this edition.",
+        "justification": false,
+        "url": false,
+        "scale": {
+            "type": "categorical",
+            "mapping": [{
+                    "label": "Yes",
+                    "description": "I find that the price is adequate",
+                    "value": "2"
+                },
+                {
+                    "label": "No",
+                    "description": "I find that the price is not adequate",
+                    "value": "1"
+                }
+            ]
+        },
+        "gold_question_check": false,
+        "style": {
+            "position": "middle",
+            "orientation": "horizontal",
+            "type": "list",
+            "separator": false
+        }
+    },
+    {
+        "name": "Indicate how adequate it seems to you ",
+        "description": "(Little = 1, Much = 5)",
+        "justification": false,
+        "url": false,
+        "scale": {
+            "type": "interval",
+            "min": 1,
+            "max": 5,
+            "step": 1
+        },
+        "gold_question_check": false,
+        "style": {
+            "position": "middle",
+            "type": "list",
+            "orientation": "vertical",
+            "separator": false
+        }
+    },
+    {
+        "name": "What is your impression of this edition?",
+        "description": "Please indicate your impressions of this edition based on your knowledge.",
+        "justification": {
+            "text": "I think this book is ... why.. ",
+            "min_words": 5
+        },
+        "style": {
+            "type": "list",
+            "position": "bottom"
+        }
+    },
+    {
+        "name": "If you've read any edition of this book, indicate a URL to identify it",
+        "description": "Indicate whether you have read this specific edition or not. In case you have read this book, but a different edition indicates which one by indicating the URL of the specific edition.",
+        "justification": {
+            "text": "If not write 'I have not read this book' else write 'I have read [link of the edition read]",
+            "min_words": 3
+        },
+        "style": {
+            "type": "list",
+            "position": "bottom"
+        }
+    },
+    {
+        "name": "Select the option that indicates how much you agree with the following statement",
+        "description": "'I would recommend this edition to another person'",
+        "justification": false,
+        "url": false,
+        "scale": {
+            "type": "categorical",
+            "mapping": [{
+                    "label": "Completely agree",
+                    "description": "I would recommend it to anyone",
+                    "value": "5"
+                },
+                {
+                    "label": "Generally agree",
+                    "description": "I would recommend it ",
+                    "value": "4"
+                },
+                {
+                    "label": "I don't know",
+                    "description": "I don't have a clear opinion on this book",
+                    "value": "3"
+                },
+                {
+                    "label": "Generally disagree ",
+                    "description": "I would not recommend it ",
+                    "value": "2"
+                },
+                {
+                    "label": "Completely disagree",
+                    "description": "I would not recommend it to anyone",
+                    "value": "1"
+                }
+            ]
+        },
+        "gold_question_check": false,
+        "style": {
+            "position": "middle",
+            "orientation": "vertical",
+            "type": "list",
+            "separator": false
+        }
+    }
 ]
