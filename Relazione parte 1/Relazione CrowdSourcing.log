@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.26)  11 JAN 2021 15:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.26)  11 JAN 2021 23:11
 entering extended mode
 **"./Relazione CrowdSourcing.tex"
 ("Relazione CrowdSourcing.tex"
@@ -114,30 +114,60 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
+(C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+\c@subfigure=\count195
+\c@subtable=\count196
+) (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks19
+\float@box=\box47
+\@float@everytoks=\toks20
+\@floatcapt=\box48
+)
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count193
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count198
+\l__pdf_internal_box=\box49
 ) ("Relazione CrowdSourcing.aux")
 \openout1 = `"Relazione CrowdSourcing.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Info: Redefining \it@ocap on input line 7.
-LaTeX Info: Redefining \it@ccap on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Info: Redefining \it@ocap on input line 8.
+LaTeX Info: Redefining \it@ccap on input line 8.
 
 
 File italian.ldf warning: 
@@ -145,7 +175,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 7.
+italian.ldf    on input line 8.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -185,24 +215,28 @@ italian.ldf    on input line 7.
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
-\scratchdimen=\dimen150
-\scratchbox=\box48
-\nofMPsegments=\count195
-\nofMParguments=\count196
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count197
-\MPscratchDim=\dimen151
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count199
+\scratchdimen=\dimen157
+\scratchbox=\box50
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen158
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks22
 )
 (C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-) [1
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ [1
 
 
 {C:/Users/loris/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
@@ -223,37 +257,68 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Capitolo 1.
 [2
 
-] [3] [4]
-<statement.png, id=23, 405.31425pt x 250.536pt>
+]
+<task.png, id=16, 412.54124pt x 600.44325pt>
+File: task.png Graphic file (type png)
+<use task.png>
+Package pdftex.def Info: task.png  used on input line 68.
+(pdftex.def)             Requested size: 430.20276pt x 626.15956pt.
+ [3] [4 <./task.png>]
+<statement.png, id=26, 493.845pt x 379.4175pt>
 File: statement.png Graphic file (type png)
 <use statement.png>
-Package pdftex.def Info: statement.png  used on input line 111.
-(pdftex.def)             Requested size: 430.20276pt x 265.91858pt.
-<css.png, id=25, 102.98476pt x 49.3845pt>
+Package pdftex.def Info: statement.png  used on input line 101.
+(pdftex.def)             Requested size: 310.70119pt x 238.70428pt.
+<css.png, id=27, 138.5175pt x 139.11975pt>
 File: css.png Graphic file (type png)
 <use css.png>
-Package pdftex.def Info: css.png  used on input line 118.
-(pdftex.def)             Requested size: 143.40335pt x 68.76631pt.
- [5 <./statement.png> <./css.png>] ("Relazione CrowdSourcing.aux") ) 
+Package pdftex.def Info: css.png  used on input line 107.
+(pdftex.def)             Requested size: 107.55067pt x 108.01834pt.
+
+Overfull \hbox (32.44719pt too wide) in paragraph at lines 97--112
+\OT1/cmr/m/n/10.95 Per po-ter ot-te-ne-re quel lay-out e sta-to ne-ces-sa-rio 
+ef-fet-tua-re del-le mo-di-fi-che al fi-le \OT1/cmr/bx/n/10.95 ske-le-ton.compo
+nent.html
+ []
+
+[5 <./statement.png> <./css.png>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+39.
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 139.
+
+Overfull \hbox (30.16931pt too wide) in paragraph at lines 139--140
+[]\OT1/cmr/m/n/10.95 I to-ken ge-ne-ra-ti con la re-la-ti-va cor-ri-spon-den-za
+ so-no me-mo-riz-za-ti nel fi-le \OT1/cmr/bx/n/10.95 da-ta\OMS/cmsy/b/n/10.95 n
+\OT1/cmr/bx/n/10.95 build\OMS/cmsy/b/n/10.95 n\OT1/cmr/bx/n/10.95 mturk\OMS/cms
+y/b/n/10.95 n\OT1/cmr/bx/n/10.95 token.csv 
+ []
+
+[6] ("Relazione CrowdSourcing.aux") ) 
 Here is how much of TeX's memory you used:
- 2903 strings out of 480236
- 42649 string characters out of 2880557
- 344201 words of memory out of 3000000
- 19453 multiletter control sequences out of 15000+200000
- 541197 words of font info for 49 fonts, out of 3000000 for 9000
+ 4290 strings out of 480236
+ 69103 string characters out of 2880557
+ 370498 words of memory out of 3000000
+ 20823 multiletter control sequences out of 15000+200000
+ 541452 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,66p,475b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\
-loris\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/U
-sers/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.
-pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr10.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Relazione CrowdSourcing.pdf" (6 pages, 100277 bytes).
+ 60i,8n,68p,506b,445s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\loris\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/loris/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/loris/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/loris/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/User
+s/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb>
+Output written on "Relazione CrowdSourcing.pdf" (7 pages, 241027 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,9 +1,9 @@
 [{
-        "caption": "Please, do the following steps",
+        "caption": "Please, do the following steps:",
         "steps": [
-            "Answer all of the following questions regarding the featured edition",
+            "Answer all of the following questions regarding the featured edition.",
             "At question 5 indicate the level of agreement with which you agree on the underlying statement by choosing from the 5 possible options.",
-            "At question 6 The response must have one of the following forms:  'I have read this book' or 'I have not read this book.' or 'I have read this edition [https: //www.amazon.com/Three-Musketeers-Tim-Curry / ...]'"
+            "At question 6 The response must have one of the following forms:  'I have read this book' or 'I have not read this book.' or 'I have read this edition [https: //www.amazon.com/Three-Musketeers-Tim-Curry / ...].'"
         ]
 
     }

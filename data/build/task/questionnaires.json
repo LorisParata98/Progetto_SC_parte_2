@@ -1,124 +1,107 @@
-[
-	{
-		"type": "standard",
-		"questions": [
-			{
-				"name": "reading_book_time",
-				"text": "How much time do you usually spend reading?",
-				"answers": [
-					"0 - 1 hour every week",
-					"2 - 3 hours every week",
-					"4 - 5 hours every week",
-					"6+  hours every week"
-				]
-			}
-		]
-	},
-	{
-		"type": "standard",
-		"questions": [
-			{
-				"name": "number_of_books_year",
-				"text": "How many books do you usually read during the year?",
-				"answers": [
-					"0-1",
-					"2-5",
-					"6-10",
-					"11+"
-				]
-			}
-		]
-	},
-	{
-		"type": "standard",
-		"questions": [
-			{
-				"name": "favorite_genre",
-				"text": "What's your favorite literary genre?",
-				"answers": [
-					"Action and Adventure",
-					"Biographies",
-					"Classics",
-					"Detective and Mystery",
-					"Fantasy",
-					"History",
-					"Horror",
-					"Poetry",
-					"Romance",
-					"Thriller",
-					"Other"
-				]
-			}
-		]
-	},
-	{
-		"type": "standard",
-		"questions": [
-			{
-				"name": "original_language",
-				"text": "Do you prefer books in the original language or translated?",
-				"answers": [
-					"Original language",
-					"Translated into your language"
-				]
-			}
-		]
-	},
-	{
-		"type": "standard",
-		"questions": [
-			{
-				"name": "book_prefered_format",
-				"text": "What format do you buy most of your books in?",
-				"answers": [
-					"Hardcover",
-					"Paperback",
-					"E-book",
-					"Audiobook"
-				]
-			}
-		]
-	},
-	{
-		"type": "standard",
-		"questions": [
-			{
-				"name": "books_reading_location",
-				"text": "Where do you usually find yourself reading?",
-				"answers": [
-					"In the Library",
-					"At home",
-					"Outside",
-					"Anywhere"
-				]
-			}
-		]
-	},
-	{
-		"type": "standard",
-		"questions": [
-			{
-				"name": "book_choose",
-				"text": "Based on what you choose a book to buy?",
-				"answers": [
-					"Cover",
-					"Title",
-					"Blurb",
-					"Author",
-					"Recommendation from a friend or family member",
-					"Online reviews"
-				]
-			}
-		]
-	},
-	{
-		"type": "crt",
-		"questions": [
-		  {
-			"name": "booksandpen",
-			"text": "A book and a pen cost $1.10 in total. The book cost $1.00 more than the pen. How much doest the pen cost? ___ cents",
-			"answers": []
-		  }
-		]
-	  }
+[{
+        "type": "standard",
+        "questions": [{
+            "name": "reading_book_time",
+            "text": "How much time do you usually spend reading?",
+            "answers": [
+                "0 - 1 hour every week",
+                "2 - 3 hours every week",
+                "4 - 5 hours every week",
+                "6+  hours every week"
+            ]
+        }]
+    },
+    {
+        "type": "standard",
+        "questions": [{
+            "name": "number_of_books_year",
+            "text": "How many books do you usually read during the year?",
+            "answers": [
+                "0-1",
+                "2-5",
+                "6-10",
+                "11+"
+            ]
+        }]
+    },
+    {
+        "type": "standard",
+        "questions": [{
+            "name": "favorite_genre",
+            "text": "What's your favorite literary genre?",
+            "answers": [
+                "Action and Adventure",
+                "Biographies",
+                "Classics",
+                "Detective and Mystery",
+                "Fantasy",
+                "History",
+                "Horror",
+                "Poetry",
+                "Romance",
+                "Thriller",
+                "Other"
+            ]
+        }]
+    },
+    {
+        "type": "standard",
+        "questions": [{
+            "name": "original_language",
+            "text": "Do you prefer books in the original language or translated?",
+            "answers": [
+                "Original language",
+                "Translated into your language"
+            ]
+        }]
+    },
+    {
+        "type": "standard",
+        "questions": [{
+            "name": "book_prefered_format",
+            "text": "What format do you buy most of your books in?",
+            "answers": [
+                "Hardcover",
+                "Paperback",
+                "E-book",
+                "Audiobook"
+            ]
+        }]
+    },
+    {
+        "type": "standard",
+        "questions": [{
+            "name": "books_reading_location",
+            "text": "Where do you usually find yourself reading?",
+            "answers": [
+                "In the Library",
+                "At home",
+                "Outside",
+                "Anywhere"
+            ]
+        }]
+    },
+    {
+        "type": "standard",
+        "questions": [{
+            "name": "book_choose",
+            "text": "Based on what you choose a book to buy?",
+            "answers": [
+                "Cover",
+                "Title",
+                "Blurb",
+                "Author",
+                "Recommendation from a friend or family member",
+                "Online reviews"
+            ]
+        }]
+    },
+    {
+        "type": "crt",
+        "questions": [{
+            "name": "booksandpen",
+            "text": "A book and a pen cost $1.10 in total. The book cost $1.00 more than the pen. How much doest the pen cost? ___ cents.",
+            "answers": []
+        }]
+    }
 ]
