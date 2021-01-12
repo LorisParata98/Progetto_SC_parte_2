@@ -84,19 +84,7 @@
         }
     },
     {
-        "name": "If you've read any edition of this book, indicate a URL to identify it",
-        "description": "Indicate whether you have read this specific edition or not. In case you have read this book, but a different edition indicates which one by indicating the URL of the specific edition.",
-        "justification": {
-            "text": "If not write 'I have not read this book' else write 'I have read [link of the edition read]",
-            "min_words": 3
-        },
-        "style": {
-            "type": "list",
-            "position": "bottom"
-        }
-    },
-    {
-        "name": "Select the option that indicates how much you agree with the following statement",
+        "name": "Select the option that indicates how much you agree with the following statement.",
         "description": "'I would recommend this edition to another person'",
         "justification": false,
         "url": false,
@@ -131,10 +119,23 @@
         },
         "gold_question_check": false,
         "style": {
-            "position": "middle",
+            "position": "bottom",
             "orientation": "vertical",
             "type": "list",
             "separator": false
         }
+    },
+    {
+        "name": "If you've read any edition of this book, indicate a URL to identify it",
+        "description": "Indicate whether you have read this specific edition or not. In case you have read this book, but a different edition indicates which one by indicating the URL of the specific edition.",
+        "justification": {
+            "text": "If not write 'I have not read this book' else write 'I have read [link of the edition read]",
+            "min_words": 3
+        },
+        "style": {
+            "type": "list",
+            "position": "bottom"
+        }
     }
+
 ]
