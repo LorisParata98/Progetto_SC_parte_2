@@ -1,6 +1,0 @@
-./upload.sh "Libri task 1" "Batch Libri - 1" parata-crowd-tasks-eu parata-crowd-deploy-eu allow-config
-                                  --body "tasks/admin.json"                                    --content-type application/json
-
-./download.sh "Libri task 1" parata-crowd-tasks-eu "tasks/Libri task 1"
-
-
