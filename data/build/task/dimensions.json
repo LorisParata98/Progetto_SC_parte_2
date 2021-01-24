@@ -75,7 +75,7 @@
         "name": "What is your impression of this edition?",
         "description": "Please indicate your impressions of this edition based on your knowledge.",
         "justification": {
-            "text": "I think this book is ... why.. ",
+            "text": "I think this book is ... because.. ",
             "min_words": 5
         },
         "style": {
